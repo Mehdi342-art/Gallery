@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragment_si_cl_padding_start">16dp</dimen>
+    <dimen name="fragment_si_cl_padding_end">16dp</dimen>
+    <dimen name="fragment_si_til_email_margin_top">24dp</dimen>
+    <dimen name="fragment_si_til_password_margin_top">8dp</dimen>
+    <dimen name="fragment_si_btn_signin_margin_top">16dp</dimen>
+    <dimen name="fragment_si_btn_gmail_margin_top">8dp</dimen>
+    <dimen name="fragment_detail_cl_padding_start">8dp</dimen>
+    <dimen name="fragment_detail_cl_padding_end">8dp</dimen>
+    <dimen name="fragment_detail_cl_padding">8dp</dimen>
+    <dimen name="fragment_detail_btn_margin_top">8dp</dimen>
+
+    <dimen name="grid_expected_size">120dp</dimen>
+    <dimen name="item_margin_horizontal">24dp</dimen>
+    <dimen name="item_margin_vertical">8dp</dimen>
+</resources>
