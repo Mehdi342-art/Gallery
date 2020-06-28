@@ -14,5 +14,6 @@
     <string name="fragment_detail_btn_alert_dialog_label">Alert Dialog</string>
 
     <string name="error_gif">x or y bound size should be at least %1$dpx and file size should be no more than %2$sM</string>
+    <string name="gallery_activity_label">Gallery Activity</string>
 
 </resources>
